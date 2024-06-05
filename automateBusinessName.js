@@ -1,8 +1,8 @@
 function automateBusinessName() {
     // Change these variables
-    var sourceSpreadsheetID = '1EEoLEeZKCJqZzfvADZ1Gm4D1duizZAzI1EIQbbgOEs8';
+    var sourceSpreadsheetID = '<YOUR SOURCE ID HERE>';
     var sourceSheetName = 'Master List';
-    var destinationSpreadsheetID = '1jx2B4q7ISAajGUI_lGWWeOyRL8TDEwcUmK3q1EwGYQ8';
+    var destinationSpreadsheetID = '<YOUR DESTINATION ID HERE>';
     var destinationSheetName = 'Sheet1';
 
     // Open spreadsheets and sheets
